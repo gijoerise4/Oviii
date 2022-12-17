@@ -1,3 +1,6 @@
+var x = document.getElementById("player");
+
+x.play();
 // Animation Timeline
 const animationTimeline = () => {
   // Spit chars that needs to be animated individually
