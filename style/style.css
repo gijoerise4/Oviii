@@ -163,7 +163,7 @@ div.idea-6 span {
 .six img {
   display: inline-block;
   max-width: 100%;
-  height: auto;
+  height: 60%;
 }
 
 .six .hat {
@@ -171,6 +171,7 @@ div.idea-6 span {
   width: 80px;
   top: -15%;
   left: 47%;
+  height: 20%;
   /* transform: scale(0.1); */
 }
 
@@ -449,6 +450,7 @@ div.idea-6 span {
 
 div.six {
   top: 14vh;
+  height: 100vh;
 }
 
 #bg {
@@ -480,4 +482,8 @@ div.six {
   height: 100%;
   background-size: cover;
   visibility: hidden;
+}
+
+#wish1 {
+  height: 20%;
 }
